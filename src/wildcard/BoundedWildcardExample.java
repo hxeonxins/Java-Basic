@@ -1,4 +1,4 @@
-package wildcart;
+package wildcard;
 
 import java.util.Arrays;
 import java.util.List;
